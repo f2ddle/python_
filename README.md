@@ -5,7 +5,8 @@
 ##### My Projects:
 ###### ![calculator](https://github.com/f2ddle/screenshots/blob/main/d.png ):
 ###### A basic calculator with 4 basic mathematical operations, except it can also calculate square roots and exponents
-###### TURTLE RACE:
+###### ![calculator](https://github.com/f2ddle/screenshots/blob/main/g.png ):
 ###### Self-explanatory, just a turtle race made in python. The turtles were named after Teenage Mutant Ninja Turtles
-###### SNAKE:
-###### Self-explanatory as well, just a basic snake game
+###### ![calculator](https://github.com/f2ddle/screenshots/blob/main/obraz_2022-12-01_124719717.png ):
+###### Just a basic snake game
+
